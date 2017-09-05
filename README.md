@@ -1,8 +1,8 @@
 # Awesome list of digital forensic tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Collection of digital forensics tools for verification, investigations, diagnostics and so on.
-Composed from: Bellingcat's Digital Forensics Tools list https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA
-and assorted collections of forensic tools online.
+Composed from: Bellingcat's Digital Forensics Tools list https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA, Forensics Wiki http://www.forensicswiki.org
+and assorted collections of forensic resources online.
 
 All contributions welcome. Please propose changes using github issue https://github.com/ivbeg/awesome-forensictools/issues or by direct writing pull request.
 
@@ -10,6 +10,7 @@ All contributions welcome. Please propose changes using github issue https://git
 
 * [Satellite and mapping services](#satellite-and-mapping-services)
 * [Geobased searches](#geobased-searches)
+* [Documents metadata](#documents-metadata)
 * [Images, videos and metadata](#images-videos-metadata)
 * [Social media](#social-media)
 * [Transport](#transport)
@@ -27,10 +28,8 @@ All contributions welcome. Please propose changes using github issue https://git
 -   Bing Maps, satellite and mapping service, has more recent and
     sharper imagery than Google in several areas such as Iraq,
     [bing.com/maps](https://www.google.com/url?q=https://www.bing.com/maps/&sa=D&ust=1504589369243000&usg=AFQjCNH22KQpIWIbn7V5o3HyB1zRaiRzBg)
-
 -   Date of the Bing imagery? Check:
     [mvexel.dev.openstreetmap.org/bing](https://www.google.com/url?q=http://mvexel.dev.openstreetmap.org/bing/&sa=D&ust=1504589369244000&usg=AFQjCNGoqeseB1zjTW33CSTNlkCz38Kp5A) 
-
 -   conversion of coordinates, convert geographic coordinates between
     different notation styles,
     [synnatschke.de/geo-tools/coordinate-converter.php](https://www.google.com/url?q=http://www.synnatschke.de/geo-tools/coordinate-converter.php&sa=D&ust=1504589369244000&usg=AFQjCNGVm4pLu3qlw8ucIjtKEBhaaJhnuA) 
@@ -39,16 +38,13 @@ All contributions welcome. Please propose changes using github issue https://git
     [browse.digitalglobe.com/imagefinder](https://www.google.com/url?q=https://browse.digitalglobe.com/imagefinder/main.jsp;jsessionid%3D211D96095DB2313696B02534E7F62D64?&sa=D&ust=1504589369245000&usg=AFQjCNEcsJIsWOcx-TDoVwXedceF0cQPRw) 
 -   Geograph, georeferenced
     images, [geograph.org](https://www.google.com/url?q=http://www.geograph.org&sa=D&ust=1504589369245000&usg=AFQjCNG0P9z2zy6ChpHDA1XEEsnj693bcw) 
-
 -   GeoNames, an online database of (various spellings of) locations
     names,
     [geonames.org](https://www.google.com/url?q=http://www.geonames.org&sa=D&ust=1504589369246000&usg=AFQjCNG8LEBzBMXvtVwueeNrMnpnfQ0zBQ)
 -   Google Earth Pro,
     [google.com/earth/download/gep/agree.html](https://www.google.com/url?q=https://www.google.com/earth/download/gep/agree.html&sa=D&ust=1504589369246000&usg=AFQjCNHIpk7wKJMjL4CrJ-3XHXsuFrlH7Q) 
-
 -   Bing Maps satellite imagery layer:
     [ge-map-overlays.appspot.com/bing-maps/aerial](https://www.google.com/url?q=http://ge-map-overlays.appspot.com/bing-maps/aerial&sa=D&ust=1504589369247000&usg=AFQjCNHwWRSrFicxuNItx_kgwykdR4YLgQ) 
-
 -   Google Maps,
     [maps.google.com](https://www.google.com/url?q=http://maps.google.com&sa=D&ust=1504589369247000&usg=AFQjCNEVBpDBJAFhSJQQD8IXLYT1yeq4hw) 
 -   HERE WeGo, mapping service which includes more recent satellite
@@ -65,8 +61,7 @@ All contributions welcome. Please propose changes using github issue https://git
     [panoramio.com](https://www.google.com/url?q=http://www.panoramio.com&sa=D&ust=1504589369250000&usg=AFQjCNFr4_Qrl52nwdu0SU5am0g8bvxzSg) (no
     longer available)
 -   Sentinel Playground,
-    [apps.sentinel-hub.com/sentinel-playground](https://www.google.com/url?q=http://apps.sentinel-hub.com/sentinel-playground&sa=D&ust=1504589369251000&usg=AFQjCNHN621q0aoq8L1bFb0OCzE-AKcK0A) 
-     
+    [apps.sentinel-hub.com/sentinel-playground](https://www.google.com/url?q=http://apps.sentinel-hub.com/sentinel-playground&sa=D&ust=1504589369251000&usg=AFQjCNHN621q0aoq8L1bFb0OCzE-AKcK0A)      
 -   TerraServer, also a commercial company selling satellite imagery,
     but previews available:
     [terraserver.com](https://www.google.com/url?q=http://www.terraserver.com&sa=D&ust=1504589369251000&usg=AFQjCNFINe1wFD2Z-4Wu4r-SCDi_DZe0pw)
@@ -79,12 +74,10 @@ All contributions welcome. Please propose changes using github issue https://git
 
 
 # Geobased searches
--   (\$) Echosec,
-    [echosec.net](https://www.google.com/url?q=http://www.echosec.net&sa=D&ust=1504589369253000&usg=AFQjCNEKkzCROu8ukmLUP0QgFuY0D7n9PQ) (Instagram,
+-   (\$) Echosec, [echosec.net](https://www.google.com/url?q=http://www.echosec.net&sa=D&ust=1504589369253000&usg=AFQjCNEKkzCROu8ukmLUP0QgFuY0D7n9PQ) (Instagram,
     Twitter, VK, Foursquare)
 -   LiveUAmap, aggregated open source information,
     [liveuamap.com](https://www.google.com/url?q=http://www.liveuamap.com&sa=D&ust=1504589369254000&usg=AFQjCNEsb9xkHaiUAu2MsF87xsIsMnsTNQ) 
-
 -   Afghanistan:
     [afghanistan.liveuamap.com](https://www.google.com/url?q=https://afghanistan.liveuamap.com&sa=D&ust=1504589369254000&usg=AFQjCNGR9NPYHFVoIdVTKiOpTWI_7y53Uw) 
 -   Islamic State:
@@ -94,13 +87,12 @@ All contributions welcome. Please propose changes using github issue https://git
 -   Ukraine:
     [ukraine.liveuamap.com](https://www.google.com/url?q=http://ukraine.liveuamap.com&sa=D&ust=1504589369256000&usg=AFQjCNHPpfHpO9B3u-VPB7DXzNJWo5pUcw) 
 -   Venezuela: venezuela.liveuamap.com
-
 -   (\$) WarWire,
     [warwire.net](https://www.google.com/url?q=http://www.warwire.net&sa=D&ust=1504589369256000&usg=AFQjCNEGtLclHTMKw-pF4Drachnr1cpE3Q) (Twitter,
     Instagram, VK, YouTube)
 -   Yomapic,
     [yomapic.com](https://www.google.com/url?q=http://www.yomapic.com&sa=D&ust=1504589369257000&usg=AFQjCNEucHDRHDQFu3x-UwayhzGRl0j4kA) (VK)
--   Geobased search on:
+## Geobased search on:
 
 -   YouTube [youtube.github.io/geo-search-tool/search.html](https://www.google.com/url?q=http://youtube.github.io/geo-search-tool/search.html&sa=D&ust=1504589369257000&usg=AFQjCNGamW1KCC_Ux5IiiSGtTp58DsSPJA)
 -   Twitter insert this is search box:
@@ -108,10 +100,13 @@ All contributions welcome. Please propose changes using github issue https://git
     geocode:36.222285,43.998233,2km (only works with km, so 500m =
     0.5km)
 
+# Documents metadata
+- Hachoir3 [https://github.com/haypo/hachoir3] (https://github.com/haypo/hachoir3). Python library for metadata extraction from binary streams including MS Office documents
+- Forensic wiki [list of metadata extractors](http://www.forensicswiki.org/wiki/Document_Metadata_Extraction)
+- Metadata extractor [github](https://github.com/drewnoakes/metadata-extractor)
 
 # Images, videos and metadata
 ## Image and videos tools
-
 -   Amnesty YouTube Dataviewer, Reverse image (still of video) search
     and exact uploading time,
     [amnestyusa.org/sites/default/custom-scripts/citizenevidence](https://www.google.com/url?q=http://www.amnestyusa.org/sites/default/custom-scripts/citizenevidence/&sa=D&ust=1504589369259000&usg=AFQjCNFxd7A0VxP1XwCXF5oekfamGF_lEg)
@@ -127,7 +122,6 @@ All contributions welcome. Please propose changes using github issue https://git
     [yandex.com/images](https://www.google.com/url?q=https://yandex.com/images/&sa=D&ust=1504589369260000&usg=AFQjCNHF_oZy5PDjfYd37NVUsEkN2EpQZg) 
 
 ## Foto/video metadata (EXIF and e.t.c.)
-
 -   Jeffrey's Image Metadata Viewer, to view the metadata of (online)
     photos,
     [exif.regex.info/exif.cgi](https://www.google.com/url?q=http://exif.regex.info/exif.cgi&sa=D&ust=1504589369261000&usg=AFQjCNFjkfh8oTFR5NngigjDXK2QzmuQng) 
@@ -136,7 +130,6 @@ All contributions welcome. Please propose changes using github issue https://git
 -   Foca. Metadata extraction tool [elevenpaths.com](https://www.elevenpaths.com/labstools/foca/index.html)
 - [Goofile](https://tools.kali.org/information-gathering/goofile). Download and extract metadata
 - Splunk and Metadata automation. [Splunk](https://blog.sweepatic.com/metadata-hackers-best-friend/)
-
 -   Foto
     Forensics,[fotoforensics.com](http://fotoforensics.com)        
 -   Image Forensics,
@@ -153,7 +146,6 @@ All contributions welcome. Please propose changes using github issue https://git
     [Linux](https://www.google.com/url?q=http://www.invid-project.eu/wp-content/uploads/2017/07/InVID-verification-ext-v0.54fx-linux.zip&sa=D&ust=1504589369296000&usg=AFQjCNFMd82hdeHqs0KxPkqOlIJuT-4Ikw))).
 
 ## Guides
-
 -   First Draft News,
     [firstdraftnews.com/resource/visual-verification-guide-photos](https://www.google.com/url?q=https://firstdraftnews.com/resource/visual-verification-guide-photos&sa=D&ust=1504589369296000&usg=AFQjCNF6AQZ-jM3GBtMeJlUPEASNHOFmqw) 
 
@@ -161,8 +153,6 @@ All contributions welcome. Please propose changes using github issue https://git
 # Social media
 
 ## Facebook 
-========
-
 -   Facebook Scanner, automatically advanced searched for Facebook
     profiles, [stalkscan.com](https://www.google.com/url?q=http://stalkscan.com/&sa=D&ust=1504589369298000&usg=AFQjCNG82ECHQo5JFXjG2EX-mkg0ZXK2CA)
 -   Facebook Search Tool, find accounts by name, email, screen name and
@@ -297,6 +287,7 @@ All contributions welcome. Please propose changes using github issue https://git
     [crt.sh](https://www.google.com/url?q=https://crt.sh&sa=D&ust=1504589369321000&usg=AFQjCNH0zm6MgVo26GtWINtQruESQTcS5g) 
 -   Complete DNS, historical DNS records,
     [completedns.com/dns-history](https://www.google.com/url?q=https://completedns.com/dns-history&sa=D&ust=1504589369321000&usg=AFQjCNH6RDl7R_9x4f1XzxiOvZG6NFDH7g) 
+-   BuildWith. Online database of web technologies used on website [buildwith.com](http://builtwith.com)
 -   Domain Tools,
     [DomainTools](https://www.google.com/url?q=http://www.domaintools.com/&sa=D&ust=1504589369322000&usg=AFQjCNFnE3NxBQWl55yaTBIT6gUEl0HIoA)
 -   IXMaps,
@@ -466,6 +457,10 @@ All contributions welcome. Please propose changes using github issue https://git
 
 -   Provinces of the so-called Islamic State,
     [umap.openstreetmap.fr](https://www.google.com/url?q=http://umap.openstreetmap.fr/en/map/islamic-state-claimed-provinces-map_29647%236/32.880/45.242&sa=D&ust=1504589369388000&usg=AFQjCNGvAsH9A2S09Aahply1XNaRhdW3ow)
+    
+## Russia
+
+- FindFace. Face recognition services for Russian social network Vkontakte [findface.ru](https://findface.ru)
 
 ## Syria
 
