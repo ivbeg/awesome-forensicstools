@@ -7,7 +7,7 @@ and assorted collections of forensic resources online.
 All contributions welcome. Please propose changes using github issue https://github.com/ivbeg/awesome-forensictools/issues or by direct writing pull request.
 
 ### Table of contents / Содержание
-
+* [Collections](#collections-of-tools)
 * [Satellite and mapping services](#satellite-and-mapping-services)
 * [Geobased searches](#geobased-searches)
 * [Documents metadata](#documents-metadata)
@@ -22,6 +22,9 @@ All contributions welcome. Please propose changes using github issue https://git
 * [Online security and privacy](#online-security-and-privacy)
 * [List of sources per country](#list-of-sources-per-country)
 
+
+# Collections of tools
+- OSINT Tools [osintframework.com](http://osintframework.com) - huge collection of open source intelligence tools
 
 # Satellite and mapping services
 
