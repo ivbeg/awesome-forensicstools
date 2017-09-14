@@ -239,15 +239,16 @@ All contributions welcome. Please propose changes using github issue https://git
 # Transport
 ## Aircraft
 
+-   OpenSky. Free aircraft tracking project [opensky-network.org](https://opensky-network.org/) 
 -   ADS-B Exchange Global Radar, which also includes a number of
     [military
-    aircraft](https://www.google.com/url?q=https://www.adsbexchange.com/airborne-military-aircraft/&sa=D&ust=1504589369313000&usg=AFQjCNFWX_6bVq1jQwrPbfGVGQqnpBIlXg),
-    [global.adsbexchange.com/VirtualRadar/mobile.html](https://www.google.com/url?q=https://global.adsbexchange.com/VirtualRadar/mobile.html%23&sa=D&ust=1504589369313000&usg=AFQjCNHzKEuHjabD8gRLiKgNosq_jueSQA)
+    aircraft](https://www.adsbexchange.com/airborne-military-aircraft/),
+    [global.adsbexchange.com/VirtualRadar/mobile.html](https://global.adsbexchange.com/VirtualRadar/mobile.html)
 -   Flightradar24, to track (mostly) civilian aircraft currently in the
     air around the world, archive goes 12 months back but (\$),
-     [flightradar24.com](https://www.google.com/url?q=https://www.flightradar24.com/&sa=D&ust=1504589369314000&usg=AFQjCNE3UmRgONIsHoofWEF-6RKpgmtb-w)
+     [flightradar24.com](https://www.flightradar24.com/)
 -   RadarBox, worldwide coverage, includes private and military jets,
-    [radarbox24.com](https://www.google.com/url?q=https://www.radarbox24.com/&sa=D&ust=1504589369314000&usg=AFQjCNET92jg-nSkuOQHz7ZCx9RgXElddQ)
+    [radarbox24.com](https://www.radarbox24.com)
 
 ## Boats
 
