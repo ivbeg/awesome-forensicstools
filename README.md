@@ -249,6 +249,7 @@ All contributions welcome. Please propose changes using github issue https://git
      [flightradar24.com](https://www.flightradar24.com/)
 -   RadarBox, worldwide coverage, includes private and military jets,
     [radarbox24.com](https://www.radarbox24.com)
+-   FlightView, [flightview.com](https://www.flightview.com/)
 
 ## Boats
 
@@ -256,6 +257,7 @@ All contributions welcome. Please propose changes using github issue https://git
     [marinetraffic.com](https://www.marinetraffic.com/) 
 -   VesselFinder,
     [vesselfinder.com](https://www.vesselfinder.com/) 
+-   Fleet Min, [fleetmon.com](https://www.fleetmon.com/)
 
 ## Trains
 
