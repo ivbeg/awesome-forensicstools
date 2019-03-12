@@ -155,6 +155,9 @@ All contributions welcome. Please propose changes using github issue https://git
 
 # Social media
 
+## Multiple social networks
+-   NacheChk. Same name check over dozens of social networks [namechk.com](https://namechk.com/)
+
 ## Facebook
 -   Facebook Scanner, automatically advanced searched for Facebook
     profiles, [stalkscan.com](http://stalkscan.com/)
@@ -464,7 +467,12 @@ All contributions welcome. Please propose changes using github issue https://git
 
 ## Russia
 
-- FindFace. Face recognition services for Russian social network Vkontakte [findface.ru](https://findface.ru)
+- SearchFace. Face search services for Vkontakte [searchface.ru](http://searchface.ru/)
+
+### OSINT guides
+
+- How to use google and other online instruments to [analyze person accounts](https://habr.com/ru/company/echelon/blog/321754/). Russian language
+- How to use social networks [API for OSINT purposes](https://habr.com/ru/company/xakep/blog/254129/)
 
 ## Syria
 
