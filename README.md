@@ -290,48 +290,35 @@ All contributions welcome. Please propose changes using github issue https://git
 
 ## Whois, IP lookups, website analysis
 -   [Censys](https://censys.io/)
--   Central Ops, [Central
-    Ops](http://centralops.net/)
+-   Central Ops, [CentralOps](http://centralops.net/)
 -   Certificate search, [crt.sh](https://crt.sh) 
--   Complete DNS, historical DNS records,
-    [completedns.com/dns-history](https://completedns.com/dns-history) 
+-   Complete DNS, historical DNS records,[completedns.com/dns-history](https://completedns.com/dns-history) 
 -   BuildWith. Online database of web technologies used on website [buildwith.com](http://builtwith.com)
--   Domain Tools,
-    [DomainTools](http://www.domaintools.com/)
--   IXMaps,
-    [IXMaps](https://www.ixmaps.ca/explore.php)
+-   Domain Tools,[DomainTools](http://www.domaintools.com/)
+-   IXMaps,[IXMaps](https://www.ixmaps.ca/explore.php)
 -   [Network-Tools](http://network-tools.com/)
 -   [Open Site Explorer](http://www.opensiteexplorer.org/)
--   People search
 
+##   People search
 -   Peekyou,
     [peekyou.com](http://peekyou.com) 
--   Pipl, the world largest people search engine, find persons behind an
-    e-mail address, social media username, or phone number,
-    [pipl.com](https://pipl.com/)
--   Yasni,
-    [yasni.com](http://www.yasni.com/)
--   Zaba Search, only US,
-    [zabasearch.com](http://www.zabasearch.com/)
+-   Pipl, the world largest people search engine, find persons behind an e-mail address, social media username, or phone number,  [pipl.com](https://pipl.com/)
+-   Yasni, [yasni.com](http://www.yasni.com/)
+-   Zaba Search, only US, [zabasearch.com](http://www.zabasearch.com/)
 -   [publicrecords.searchsystems.net](http://www.publicrecords.searchsystems.net)
 -   [cemetery.canadagenweb.org/search.html](http://cemetery.canadagenweb.org/search.html)
 -   [opencorporates.com](https://opencorporates.com/)
 
+## Networks
 -   [Robtex](https://www.robtex.com/)
--   [Search
-    IRC](http://search.mibbit.com/)
--   [Shodan Computer
-    Search](http://www.shodanhq.com/)
+-   [BGPView](https://bgpview.io/) to find networks and it's prefixes
+-   [SearchIRC](http://search.mibbit.com/)
+-   [Shodan Computer Search](http://www.shodanhq.com/)
 -   [Utrace](http://en.utrace.de/)
 -   [ViewDNS](http://viewdns.info/)
--   [D](http://whois.icann.org),
-    [research.dnstrails.com](http://research.dnstrails.com)
--   [SpyOnWeb](http://research.dnstrails.com/)[,
-    to retrieve websites by their Tracking
-    codes,](http://research.dnstrails.com/) 
--   Whois, for domain search and information,
-    [whois.net](http://www.whois.net) or
-    [whois.icann.org](http://whois.icann.org)
+-   [D](http://whois.icann.org), [research.dnstrails.com](http://research.dnstrails.com)
+-   [SpyOnWeb](http://research.dnstrails.com/)[,to retrieve websites by their Trackingcodes,](http://research.dnstrails.com/) 
+-   Whois, for domain search and information, [whois.net](http://www.whois.net) or [whois.icann.org](http://whois.icann.org)
 
 # Archiving
 -   Archive.is, let’s you archive any webpage.
@@ -352,13 +339,11 @@ All contributions welcome. Please propose changes using github issue https://git
     [github.com/hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
 
 # Miscellaneous
--   Check for collaborative fact-checking,
-    [checkmedia.org](http://www.checkdesk.org) 
+-   Check for collaborative fact-checking, [checkmedia.org](http://www.checkdesk.org) 
 
 -   Link to [user
     guide](https://drive.google.com/drive/u/1/folders/0B8ssHSpx1n0qcW9TYnNuYmx1VWc)
--   Bellingcat’s [Check
-    team](https://checkmedia.org/)
+-   Bellingcat’s [Check team](https://checkmedia.org/)
 
 -   Document Redaction, useful for removing potentially harmful content
     in Pdfs before viewing, like traceback,
