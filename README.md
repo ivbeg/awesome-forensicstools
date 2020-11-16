@@ -124,7 +124,7 @@ All contributions welcome. Please propose changes using github issue https://git
     than Google’s reverse image search,
     [yandex.com/images](https://yandex.com/images/) 
 
-## Foto/video metadata (EXIF and e.t.c.)
+## Photo/video metadata (EXIF and e.t.c.)
 -   Jeffrey's Image Metadata Viewer, to view the metadata of (online)
     photos,
     [exif.regex.info/exif.cgi](http://exif.regex.info/exif.cgi) 
