@@ -338,7 +338,7 @@ All contributions welcome. Please propose changes using github issue https://git
 -   Download an entire website from the Wayback Machine,
     [github.com/hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
 
--   Wayback-Archive, download complete websites from the Wayback Machine with full asset preservation for offline viewing. Modern alternative with URL rewriting, asset preservation, and font corruption detection. Python, GPL-3.0,
+-   Wayback-Archive, download complete websites from the Wayback Machine with URL rewriting and asset preservation. Python,
     [github.com/GeiserX/Wayback-Archive](https://github.com/GeiserX/Wayback-Archive)
 
 # Miscellaneous
