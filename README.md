@@ -107,6 +107,7 @@ All contributions welcome. Please propose changes using github issue https://git
 - Hachoir3 [https://github.com/haypo/hachoir3] (https://github.com/haypo/hachoir3). Python library for metadata extraction from binary streams including MS Office documents
 - Forensic wiki [list of metadata extractors](http://www.forensicswiki.org/wiki/Document_Metadata_Extraction)
 - Metadata extractor [github](https://github.com/drewnoakes/metadata-extractor)
+- [PQ PDF Forensics Scanner](https://pqpdf.com/tools/scan.php) - Free browser-based PDF malware scanner running 44 independent forensic engines: behavioral sandbox, YARA (24 rules), ClamAV, ML+SHAP anomaly detection, offline threat intelligence (6.4M+ indicators), XFA FormCalc parser, OCG layer cloaking, image steganography detection, PDF signature forgery detection, MITRE ATT&CK mapping, 24-tab report with AI forensic narrative. NIST Forensic Tool Catalog listed. Zero retention, no account required.
 
 # Images, videos and metadata
 ## Image and videos tools
