@@ -125,6 +125,7 @@ All contributions welcome. Please propose changes using github issue https://git
     [yandex.com/images](https://yandex.com/images/) 
 
 ## Photo/video metadata (EXIF and e.t.c.)
+- [ChronoVerify](https://chronoverify.com). API and free web tool to validate C2PA Content Credentials against the official trust lists, read EXIF and XMP, and run pixel forensics, returning one typed verdict for any image.
 -   Jeffrey's Image Metadata Viewer, to view the metadata of (online)
     photos,
     [exif.regex.info/exif.cgi](http://exif.regex.info/exif.cgi) 
