@@ -128,6 +128,7 @@ All contributions welcome. Please propose changes using github issue https://git
 -   Jeffrey's Image Metadata Viewer, to view the metadata of (online)
     photos,
     [exif.regex.info/exif.cgi](http://exif.regex.info/exif.cgi) 
+-   [Metadata Remover](https://metadataremover.ai/metadata-viewer), browser-local viewer for EXIF, GPS, XMP, IPTC, and supported AI metadata in JPG, PNG, and WebP; no uploads or account.
 -   Irfanview,
     [irfanview.com](https://irfanview.com)
 -   Foca. Metadata extraction tool [elevenpaths.com](https://www.elevenpaths.com/labstools/foca/index.html)
