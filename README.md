@@ -202,6 +202,7 @@ All contributions welcome. Please propose changes using github issue https://git
     [twitter.com/search-advanced](https://twitter.com/search-advanced)
 -   [C](https://twitter.com/search-advanced),
     [tweetbeaver.com/index.php](https://tweetbeaver.com/index.php)
+-   [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) search, follower export, and monitoring API
 
 ### Geobased searches
 
