@@ -125,6 +125,9 @@ All contributions welcome. Please propose changes using github issue https://git
     [yandex.com/images](https://yandex.com/images/) 
 
 ## Photo/video metadata (EXIF and e.t.c.)
+-   MetadataRemover.ai, browser-local viewing and removal of supported
+    image, PDF, document, video and audio metadata,
+    [metadataremover.ai](https://metadataremover.ai/) 
 -   Jeffrey's Image Metadata Viewer, to view the metadata of (online)
     photos,
     [exif.regex.info/exif.cgi](http://exif.regex.info/exif.cgi) 
