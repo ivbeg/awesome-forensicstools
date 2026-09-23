@@ -1,4 +1,4 @@
-﻿# Awesome list of digital forensic tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome list of digital forensic tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Collection of digital forensics tools for verification, investigations, diagnostics and so on.
 Composed from: Bellingcat's Digital Forensics Tools list https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA, Forensics Wiki http://www.forensicswiki.org
@@ -123,6 +123,8 @@ All contributions welcome. Please propose changes using github issue https://git
     ([example](https://twitter.com/trbrtc/status/900708029389307904)
     than Google’s reverse image search,
     [yandex.com/images](https://yandex.com/images/) 
+-   Sealed Rose, AI temporal optical flow video and image forensics detector for synthetic media and deepfakes,
+    [sealedrose.com/verify-video](https://sealedrose.com/verify-video)
 
 ## Photo/video metadata (EXIF and e.t.c.)
 -   Jeffrey's Image Metadata Viewer, to view the metadata of (online)
