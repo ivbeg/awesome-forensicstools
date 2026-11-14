@@ -113,6 +113,7 @@ All contributions welcome. Please propose changes using github issue https://git
 -   Amnesty YouTube Dataviewer, Reverse image (still of video) search
     and exact uploading time,
     [amnestyusa.org/sites/default/custom-scripts/citizenevidence](http://www.amnestyusa.org/sites/default/custom-scripts/citizenevidence/)
+-   [Video Reverse Search](https://videoreversesearch.com/) - Search frames from a clip for matching pages and compare their publication dates.
 -   reverse image search
 -   Google Reverse Image Search,
     [images.google.com](http://images.google.com) (also
